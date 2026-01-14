@@ -11,8 +11,12 @@ As a Registered Medical Technologist (RMT) in the Philippines, I have a unique a
 
 When I’m not engineering data: 
 → ☕ Coffee 
+
 → 🏃‍♂️ Running
+
 → 🤖 AI
+
 → 📺 Anime
+
 → 🎨 Design
 
