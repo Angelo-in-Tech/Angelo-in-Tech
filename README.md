@@ -10,6 +10,7 @@ These aren't just fun facts. They are proof that I love deconstructing complex s
 As a Registered Medical Technologist (RMT) in the Philippines, I have a unique advantage: I don't just see raw data; I understand the clinical reality behind it. I bridge the gap between healthcare operations and technical infrastructure, building pipelines that drive smarter decisions.
 
 When I’m not engineering data: 
+
 → ☕ Coffee 
 
 → 🏃‍♂️ Running
